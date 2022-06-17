@@ -22,20 +22,7 @@
         </div>
 
 
-        <div class="row">
-          <div class="col-sm-6">
-            <div class="form-group">
-              <label for="dlkeyInput">DLキー(必須ではありません)</label>
-              <input type="text" class="form-control" id="dleyInput" name="dlkey" placeholder="DLキーを入力...">
-            </div>
-          </div>
-          <div class="col-sm-6">
-            <div class="form-group">
-              <label for="delkeyInput">DELキー(必須ではありません)</label>
-              <input type="text" class="form-control" id="deleyInput" name="delkey" placeholder="DELキーを入力...">
-            </div>
-          </div>
-        </div>
+      
 
         <div class="row">
           <div class="col-sm-offset-10 col-sm-2">
